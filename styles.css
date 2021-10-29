@@ -158,4 +158,7 @@ h2 {
   #title {
     text-align: center;
   }
+  .big-heading {
+    text-align: left;
+  }
 }
